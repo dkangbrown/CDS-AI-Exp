@@ -1,0 +1,9 @@
+referent_uuid,name_first,name_last,tribes,sex,age,age_category,origins,occupations,races,enslavement_status,relationships
+00080df07511480799b0a945fec265ab,0,0,0,1,1,1,0,0,1,1,0
+000a6c4e90c140e0b5c84dcdbd47e8f7,0,0,0,1,1,1,0,1,1,1,1
+001beb8c72174bcea9c5e8bcd57e3b9a,1,1,0,1,0,0,0,0,0,1,0
+002187d8abf74805973edbf1f56b09d1,1,1,0,1,0,0,0,0,0,1,1
+002b55a73ae84e7db48ca67fb1faee7b,1,0,0,1,-1,1,0,0,1,1,1
+00308f725bff40bc86ba8f8f067bb4d1,1,0,0,1,1,1,0,0,1,1,-1
+0032dc95f2e94ec787f795b6d422a057,0,0,0,1,0,0,0,0,1,1,1
+003acf11b1fb4130bb432b16e39c63b7,1,1,0,1,0,0,0,1,1,1,1
